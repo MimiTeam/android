@@ -1,9 +1,7 @@
 Ice Cream Xperia
-================
+----------------
 
-For build rom on my surouces you must have :
--My premissions
--And head !
+For build rom on my surouces you must have my premissions and head ;)
 
 Getting started
 ---------------
@@ -12,7 +10,9 @@ repo init -u git://github.com/zodex/android.git -b ics
 And :
 repo sync -j6
 
-Build the Ice Cream Xperia :
+Build the Ice Cream Xperia
+--------------------------
+
 . build/envsetup.sh
 
 lunch cm_<device>-eng
